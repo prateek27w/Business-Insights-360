@@ -3,7 +3,15 @@
 
 ## Project Overview
 
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+AtliQ Hardware, a company specializing in the manufacturing and distribution of computers and peripherals, has experienced rapid growth across various countries. Traditionally, the company relied on Excel files for data analytics. However, this approach proved inadequate for generating actionable insights, leading to significant losses, notably in the Latin American market. Recognizing the need for a more robust analytics solution, senior executives initiated the Business Insights 360 project to implement a comprehensive Power BI dashboard.
+
+To outshine competitors, they've adopted Power BI for analytics with 1.8 million transaction records from Excel, CSV, and MySQL. The Power BI Dashboard includes:
+- Home Page: Central navigation for Dashboard.
+- Finance: Develop a Profit and Loss statement to evaluate financial performance across different markets, products, and customer segments.
+- Sales: Identify top and bottom-performing customers, along with key sales metrics, to enhance customer relationship management.
+- Marketing: Analyze product performance metrics to inform marketing strategies and product development.
+- Supply Chain: Assess supply chain efficiency through KPIs such as forecast accuracy, net error, and absolute error.
+- Executive: Provide an integrated dashboard offering key insights for top-level management people to have effective decision-making.
 
 ---
 
@@ -11,41 +19,32 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ---
 
-## Introduction to AtliQ Hardware:
-**Domain:** Consumer Goods | **Functions:** Finance, Sales, Marketing, Supply Chain and Executive
+## About AtliQ Hardware Company:
+**Departments:** Finance, Sales, Marketing, Supply Chain and Executive
 
-- AtliQ Hardwares is company that sells computer hardware and peripherals like PC, mouse, printer etc. to clients across the world.
-- They have a major B2B business model wherein they sell to stores like Croma, Best Buy, Staples, Flipkart etc. who then sell it to the end users (consumers). These stores are their main customers.
-- They sell through 3 channels: Retailer, Direct and Distributor.
-- AtliQ Hardwares’s Customers are of two types. Both these Platforms are called Retailer channels.
+- AtliQ Hardwares manufactures and sells computer hardware and peripherals like PC, mouse, printer, USB etc. to different customers across the world.
+- Having a major B2B business model wherein they sell hardware to different customers like Croma, Reliance Digital, Amazon, Flipkart etc. who then sell it to the end users (consumers).
+- AtliQ operates through 3 channels: Retailer, Direct and Distributor.
+- In Retailer Channel they capture two types of platforms:
   1. Brick & Mortar Customer: Actual physical stores e.g. Croma, Best Buy
   2. E-commerce Customer: Online websites E.g. Amazon, Flipkart
-- AtliQ Hardwares also has a minor B2C business model wherein they own stores: AtliQ E-store and AtliQ Exclusive. These are called Direct channels.
-- They also have Distributors in some countries with restricted trade. E.g. Neptune
+- AtliQ Hardwares also has their own stores in the market: AtliQ E-store and AtliQ Exclusive : known as Direct channel.
+- In few countries, due to certain government regulations, products can't be sold directly. Instead there's a concept of Distributors, through which the products are distrubuted further. E.g. Neptune
 
-## Project Objective:
-AltiQ Hardware, a global leader in computers and accessories, faced unexpected losses after opening a store in America. These setbacks were identified to be caused due to reliance on outdated methods such as Excel for data analysis. To address this issue, the company's leadership recognized the need for a transformative approach to leveraging data for informed decision-making. With competitors boasting robust analytics teams, AltiQ Hardware recognizes the urgent need to develop its analytics capabilities using Power BI to thrive in the industry.
+---
 
-To outshine competitors, they've adopted Power BI for analytics with 1.8 million transaction records from Excel, CSV, and MySQL. The Power BI Dashboard includes:
-- Home Page: Central navigation for Dashboard.
-- Finance: Enhances financial planning.
-- Sales: Boosts revenue and market share.
-- Marketing: Elevates brand visibility.
-- Supply Chain: Optimizes inventory management.
-- Executive: Provides top management overview.
+### Questions to ask before starting with dashboard
 
-## Tools used:
-1. Microsoft Power BI: for Data ETL, Data Modelling, Data Visualization & Dashboarding
-2. GitHub - for Documentation
+- What is the main objective of building this PowerBI dashboard?
+- In what terms the success of this project will be measured?
+- Do stakeholders expect the initial pre-view of dashboard before the actual release?
+- What hopes & fears does the stakeholders have out of this project?
+- Who will be end users using this dashboard and for what purpose?
+- What can be go wrong while building this project?
+- What are the resources or the data sources needed to build this dashboard?
+- Is there any specific inputs from stakeholders in terms of design and views of the dashboard?
 
-## Skills & Methodologies implemented:
-1. Data Cleaning: **Power Query**
-2. Data Manipulation: **DAX Measures & Columns, Numeric & Field Parameters**
-3. Data Modelling
-4. Data Visualization: **Conditional Formatting, Custom Tooltip**
-5. Dashboarding: **Filters, Custom Icon Buttons, Slicers, Bookmarks, Page Navigation**
-6. Report Publishing: **PBI Service and Report Optimization**
-7. Documentation
+After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ---
 
@@ -65,14 +64,14 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
     - **3 divisions** : Networking and Storage (N & S), Peripherals and Accessories (P & A), PC.
     - **6 segments** & **14 Categories** of products.
 
-- **Fact tables**
+- **Fact tables** :
     - **Fact sales monthly** : sales values for products.
     - **Fact forecast monthly** : forecast values for products.
-- Excel Files:
-  - market_share: 737 records | 6 columns
-  - operational_expense: 113 records | 4 columns
-  - ns_gm_target: 321 records | 5 columns
 
+- **Excel Files** :
+  - market_share: contains market level total sales information about all the competitive players present in the market | 737 records
+  - operational_expense: spends made by the comapny for ads & promotions as well as perational cost | 113 records 
+  - ns_gm_target: target numbers given by the management team for the current fiscal | 321 records
 
 ---
 

@@ -72,13 +72,6 @@ The dataset contains 11 tables in total, namely:
   - operational_expense: 113 records | 4 columns
   - ns_gm_target: 321 records | 5 columns
 
-## Data Integrity:
-ROCCC Evaluation:
-- Reliability: MED - The raw dataset is created and updated by Codebasics. It has total 9 files. All of them were utilized in the analysis.
-- Originality: HIGH - First party provider (Codebasics)
-- Comprehensiveness: HIGH - Total 11 Files with a total of around 5.8 Million records were provided. Dataset contains multiple dimension parameters for Customers & Products as well as comprehensive sales transaction data.
-- Current: MED - Dataset was updated upto FY 2022 i.e almost 2 years old. So its not very relevant. Any trends observed and insights gained need to be comprehended as a general (not FY-specific) trend.
-- Citation: HIGH - Official citation/reference available.
 
 ---
 

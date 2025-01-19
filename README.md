@@ -1,14 +1,9 @@
 # <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
 
 
-![Image](https://github.com/user-attachments/assets/2ab78f97-5904-4882-aa91-ee6bcc84bb2f)
+## Project Overview
 
-This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
-It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 2.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).
-
-The entire project has been implemented using Microsoft Power BI Desktop 2.128.751.0 and published on Microsoft Power BI Service.
-
-The project data files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ---
 

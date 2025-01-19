@@ -13,7 +13,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ---
 
-## [Business Insights 360 Live Report Link](https://mavenanalytics.io/project/19189)
+## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjQwNDU5Y2MtOWFiNC00NGE2LWJkMDYtYzk4Nzg3N2NmMDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 

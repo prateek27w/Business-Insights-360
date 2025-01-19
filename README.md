@@ -1,6 +1,5 @@
 # <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" height="100%"> </div>
 
 ![Image](https://github.com/user-attachments/assets/2ab78f97-5904-4882-aa91-ee6bcc84bb2f)
 

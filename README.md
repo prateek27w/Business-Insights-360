@@ -76,7 +76,10 @@ After the project kick off meetings, the data engineering team has given the dat
 ---
 
 ## Data Model:
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Data%20Model/Data%20Model%20Final.PNG" width="100%" height="100%"> </div>
+
+Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.
+
+![Image](https://github.com/user-attachments/assets/caa1082c-9aa5-4834-8bdf-b315ddbdb8bf)
 
 ---
 

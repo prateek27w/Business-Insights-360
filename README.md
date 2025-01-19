@@ -55,18 +55,23 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 
 ## About the Dataset:
 
-### Data Sources:
-The dataset contains 11 tables in total, namely:
-- From gdb041 MySQL Server:
-  - dim_customer: 209 records | 5 columns
-  - dim_market: 27 records | 3 columns
-  - dim_product: 397 records | 6 columns
-  - fact_forecast_monthly: 1,885,941 records | 4 columns
-  - fact_sales_monthly: 1,885,941 records | 4 columns
-- From gdb041 MySQL Server:
-  - freight_cost: 135 records | 4 columns
-  - manufacturing_cost: 1,197 records | 3 columns
-  - post_invoice_deductions: 2,063,076 records | 5 columns
+### Dataset Includes:
+
+- **Customer dimension table** :
+    - **74 customers** with total of **209 stores** spread across **27 markets/countries**.
+    - **2 platforms** - Brick and Mortar, and E-Commmerce
+    - **3 Channels** - Retailer, Direct, and Distributors.
+
+- **Market dimension table** :
+    - **27 markets** spread across **7 sub-zones** in **4 broad regions**, that are : APAC(Asia Pacific), EU(European Union), NA(North America), LATAM(Latin America)
+
+- **Product dimension table** :
+    - **3 divisions** : Networking and Storage (N & S), Peripherals and Accessories (P & A), PC.
+    - **6 segments** & **14 Categories** of products.
+
+- **Fact tables**
+    - **Fact sales monthly** : sales values for products.
+    - **Fact forecast monthly** : forecast values for products.
 - Excel Files:
   - market_share: 737 records | 6 columns
   - operational_expense: 113 records | 4 columns

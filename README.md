@@ -78,6 +78,7 @@ After the project kick off meetings, the data engineering team has given the dat
 ## Data Model:
 
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.
+Here, all the tables are connected by one to many relationship following the Star & Snow-flake Schema Modeling Technique. 
 
 ![Image](https://github.com/user-attachments/assets/caa1082c-9aa5-4834-8bdf-b315ddbdb8bf)
 

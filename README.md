@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" height="100%"> </div>
 
-![Image](https://github.com/user-attachments/assets/ab7a9284-1844-44b5-be2c-0bb300c7d3ed)
+![Image](https://github.com/user-attachments/assets/2ab78f97-5904-4882-aa91-ee6bcc84bb2f)
 
 This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
 It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 2.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).

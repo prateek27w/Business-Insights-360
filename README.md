@@ -85,6 +85,17 @@ After the project kick off meetings, the data engineering team has given the dat
 
 ---
 
+## Technical Skills:
+
+- [x]	Proficiency in performing ETL (Extract, Transform, Load) process.
+- [x]	Creating a seperate date table covering minimum and maximum date ranges given in the dataset using Power Query.
+- [x]	Ability to interpret & extract fiscal year from the given data and deriving fiscal months & quarters respectively.
+- [x]	Establishing data model relationships among tables with one to many cardinality, following star & snow-flake schema.
+- [x]	Proficiency in incorporating supplementary data efficiently into the existing data model & ensuring it functions properly.
+- [x]	Utilizing DAX formulas & calculations to create appropriate measures & calculated columns, alongwith utilizing different options like field parameter, bookmark, tool-tip, slicers, page-level filters etc in Power BI.
+- [X] Ensuring there is no performance issues like report loading time, increased file size, slow data refresh etc.	
+
+---
 
 ## BI 360 Report Overview:
 

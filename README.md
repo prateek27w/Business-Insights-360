@@ -103,13 +103,13 @@ After the project kick off meetings, the data engineering team has given the dat
 
 Central navigation hub with easy access to all views, complete with support and information manual.
 
-![Finance view.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/HOME.gif)
+![Home View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/HOME.gif)
 
 ### II. Finance View:
 
 Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Finance%20View.png" width="100%" height="100%"> </div>
+![Finance View.gif](https://github.com/user-attachments/assets/c03d923b-d48b-4b59-8a8e-3a4dba66938b)
 
 ### III. Sales View:
 

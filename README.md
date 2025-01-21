@@ -16,7 +16,7 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 
 ---
 
-## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjQwNDU5Y2MtOWFiNC00NGE2LWJkMDYtYzk4Nzg3N2NmMDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 ## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjQwNDU5Y2MtOWFiNC00NGE2LWJkMDYtYzk4Nzg3N2NmMDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -136,7 +136,7 @@ Provides a high-level overview of organizational performance for top AtliQ execu
 
 ![Executive View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Executive.gif)
 
-### VI. Product View:
+### VII. Product View:
 
 Stakeholder's request to know the top 5 and bottom 5 products based on GM% Growth YoY and the post discounts % trend in tool-tip for each customer.
 

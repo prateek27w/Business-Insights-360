@@ -103,7 +103,7 @@ After the project kick off meetings, the data engineering team has given the dat
 
 Central navigation hub with easy access to all views, complete with support and information manual.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Home%20View.png" width="100%" height="100%"> </div>
+![Finance view.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/HOME.gif)
 
 ### II. Finance View:
 

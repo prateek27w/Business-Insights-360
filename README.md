@@ -109,7 +109,7 @@ Central navigation hub with easy access to all views, complete with support and 
 
 Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 
-![Finance View.mp4](https://github.com/user-attachments/assets/c03d923b-d48b-4b59-8a8e-3a4dba66938b)
+![Finance View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Finance.gif)
 
 ### III. Sales View:
 

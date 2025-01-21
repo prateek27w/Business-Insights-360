@@ -16,7 +16,7 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 
 ---
 
-🔗 ## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjQwNDU5Y2MtOWFiNC00NGE2LWJkMDYtYzk4Nzg3N2NmMDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjQwNDU5Y2MtOWFiNC00NGE2LWJkMDYtYzk4Nzg3N2NmMDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 

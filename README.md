@@ -115,7 +115,7 @@ Enhances financial planning and cost control, featuring a P&L Statement, Net Sal
 
 Focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Sales%20View.png" width="100%" height="100%"> </div>
+![Sales View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Sales.gif)
 
 ### IV. Marketing View:
 

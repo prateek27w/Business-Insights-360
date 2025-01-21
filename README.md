@@ -12,6 +12,7 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 - Marketing: Analyze product performance metrics to inform marketing strategies and product development.
 - Supply Chain: Assess supply chain efficiency through KPIs such as forecast accuracy, net error, and absolute error.
 - Executive: Provide an integrated dashboard offering key insights for top-level management people to have effective decision-making.
+- Product: Stakeholder's request to view overall market top 5 & bottom 5 products based on GM% Growth YoY and the post discounts % trend for each customer.
 
 ---
 
@@ -101,13 +102,13 @@ After the project kick off meetings, the data engineering team has given the dat
 
 ### I. Home View:
 
-Central navigation hub with easy access to all views, complete with support and information manual.
+A source page providing easy page navigation access to all views, with dedicated support pane and information manual.
 
 ![Home View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/HOME.gif)
 
 ### II. Finance View:
 
-Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
+Enhances financial planning and cost control, featuring a Financial P&L (Profit & Loss) Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 
 ![Finance View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Finance.gif)
 
@@ -121,25 +122,22 @@ Focuses on boosting sales revenue and tracking customer performance, including G
 
 Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Marketing%20View.png" width="100%" height="100%"> </div>
+![Marketing View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Marketing.gif)
 
 ### V. Supply Chain View:
 
 Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Supply%20Chain%20View.png" width="100%" height="100%"> </div>
+![SupplyChain.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/SupplyChain.gif)
 
 ### VI. Executive View:
 
 Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Executive%20View.png" width="100%" height="100%"> </div>
+![Executive View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Executive.gif)
 
----
+### VI. Product View:
 
-## Conclusion:
-The Power BI Report project for AtliQ Hardware provided a comprehensive, data-driven analysis across five critical business functions: Finance, Sales, Marketing, Supply Chain, and Executive. By integrating key business metrics such as Net Sales, Gross Margin, COGS, Net Profit % and Forecast Accuracy % the dashboard offers a holistic view of AtliQ's performance.
+Stakeholder's request to know the top 5 and bottom 5 products based on GM% Growth YoY and the post discounts % trend in tool-tip for each customer.
 
-The insights gained from this analysis revealed areas of interest, such as robust sales performance and precise forecast accuracy, as well as areas of opportunities for improvement in weak profit margins and supply chain efficiency. Through interactive visualizations and detailed metrics, the dashboard empowers Atliq Hardware's leadership to make informed, strategic decisions that align with their business goals.
-
----
+![Product View.gif](https://github.com/prateek27w/Business-Insights-360/blob/main/Dashboard%20Navigation/Product.gif)

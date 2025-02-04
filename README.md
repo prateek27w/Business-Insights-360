@@ -20,6 +20,14 @@ To outshine competitors, they've adopted Power BI for analytics with 1.8 million
 
 ---
 
+## [Linkedin Post Engagement](https://www.linkedin.com/posts/prateek27w_bi-360-activity-7287486811235315712-H71g?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## [Video Presentation Link](https://youtu.be/_pZGiNtjtac)
+
+---
+
 ## About AtliQ Hardware Company:
 **Departments:** Finance, Sales, Marketing, Supply Chain and Executive
 

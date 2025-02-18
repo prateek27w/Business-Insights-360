@@ -152,19 +152,19 @@ Stakeholder's request to know the top 5 and bottom 5 products based on GM% Growt
 
 ## Insights & Recommendations
 
-1. Insight - Despite a rising trend, AtliQ’s net sales is still below the 2022 target.
+1. Insight - Despite a rising trend in sales figure, AtliQ’s Net Sales is still falling short of given target number for FY 2022.
 
-   Recommendation - Launch targeted marketing campaigns to raise product awareness and attract new consumers. Offer discounts on top-selling, high-margin products to encourage bigger purchases and increase revenue.
+   Recommendation - Launch targeted marketing campaigns to raise product awareness to attract new consumers. Offer impressive discounts on top-selling, high-margin products to encourage bigger purchases and increase the overall revenue.
 
-2. Insight - Amazon is AtliQ's top revenue-generating customer, but it's falling short of the gross margin (GM%) and net profit (NP%) targets.
+2. Insight - Amazon is AtliQ's top revenue-generating customer, but it's still below the set target numbers in terms of the gross margin (GM%) and net profit (NP%) targets.
 
-   Recommendation - To improve GM% and NP%, AtliQ’s should focus on reducing pre or post-invoice deductions for Amazon while also working to lower operational expenses related to servicing Amazon.
+   Recommendation - To improve GM% and NP%, AtliQ’s should focus on reducing pre or post-invoice deductions for Amazon, as we saw in Unit Economics that AtliQ is offering almost 50% as discounts equivalent to the Net Sales amount. Also AtliQ should work closely to lower the operational expenses related to Amazon.
 
-3. Insight - AtliQ Exclusive is excelling in both revenue contribution % and gross margin (GM%).
+3. Insight - AtliQ Exclusive, which is their own store to do direct business with end consumer is excelling in both revenue contribution % and gross margin (GM%).
 
-   Recommendation - Capitalize on this success by offering more discounts and boosting revenue through AtliQ's own store.
+   Recommendation - Capitalize on this success by offering more attractive discounts and boosting revenue through AtliQ's own store.
 
-4. Insight - AtliQ 's Networking and Storage division is delivering favorable margin % and net profit % even with low sales.
+4. Insight - AtliQ 's (N & S) Networking and Storage division is delivering favorable margin % and net profit % even with low sales.
 
    Recommendation -Seize the opportunity within this division to drive sales growth and capitalize on its profitability.
 

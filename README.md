@@ -153,16 +153,21 @@ Stakeholder's request to know the top 5 and bottom 5 products based on GM% Growt
 ## Insights & Recommendations
 
 1. Insight - Despite a rising trend, AtliQ’s net sales is still below the 2022 target.
+
    Recommendation - Launch targeted marketing campaigns to raise product awareness and attract new consumers. Offer discounts on top-selling, high-margin products to encourage bigger purchases and increase revenue.
 
 2. Insight - Amazon is AtliQ's top revenue-generating customer, but it's falling short of the gross margin (GM%) and net profit (NP%) targets.
+
    Recommendation - To improve GM% and NP%, AtliQ’s should focus on reducing pre or post-invoice deductions for Amazon while also working to lower operational expenses related to servicing Amazon.
 
 3. Insight - AtliQ Exclusive is excelling in both revenue contribution % and gross margin (GM%).
+
    Recommendation - Capitalize on this success by offering more discounts and boosting revenue through AtliQ's own store.
 
 4. Insight - AtliQ 's Networking and Storage division is delivering favorable margin % and net profit % even with low sales.
+
    Recommendation -Seize the opportunity within this division to drive sales growth and capitalize on its profitability.
 
 5. Insight - AtliQ's market share % in the PC market has shown significant growth over the years.
+
    Recommendation - By intensifying promotion efforts within the PC division, AtliQ has the opportunity to secure the position of the third largest market share in PCs.
